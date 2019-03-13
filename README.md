@@ -3,6 +3,8 @@ Base project for lab assignment 1
 
 Activity part:
 
+2) Doesn't have any question to answer.
+
 3) The structure of the code we could appreaciate the header part and the body part. With the tags "html", "head" (header part) and "body" (body part).
 In the header we see the metadata instructions and descriptions, and also instructions and information for the browser. The header uses the tags "meta" (for refer the origin and define the width), "link" (give instructions to the browser) and "title" (define the title of the web page).
 In the body part it appears the content of the web page and its structure. Using the tags "center","table","tbody","tr","td" and "script" that introduces the format to show the information (in this case as a table), it allows to define the width of the table, the height, type and color of the letters. Also includes the information the web page wanted to show and, ultimately, the tags "script" it's the instruction to redirect the client the URL of an external script file.
